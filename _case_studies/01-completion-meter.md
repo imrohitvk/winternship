@@ -1,8 +1,8 @@
 ---
 layout: case-study
-title: "Speech Completion Prediction"
+title: "Spandanam Simple Application"
 order: 1
 summary: "Predicting semantic completion percentage in ongoing speech."
 tags: [speech, nlp]
 ---
-This is the place where we will be including our case study.
+Creat an application that does speech to text and creates questions out of it. Rohit Sharma to lead this project.
