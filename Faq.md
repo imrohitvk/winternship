@@ -413,7 +413,7 @@ https://docs.google.com/spreadsheets/d/1vOQY7BYRMmNiSCBkzrYR-b-1r54jViEmzvL9nD12
 
 **13.7 What is the deadline to complete the MERN case studies?**  
 
-The **hard deadline** to complete all MERN case studies is **4th January 2026 (Wednesday) evening**.
+The **hard deadline** to complete all MERN case studies is **4th January 2026 (Sunday) evening**.
 
 However, do **not focus solely on the deadline**. Meeting the deadline is **not the ultimate goal** of these case studies.  
 Their primary purpose is to give you exposure to **collaborative problem-solving**, **hands-on coding**, and to help **optimize your learning journey**, rather than forcing you to rush through tasks.
